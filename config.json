@@ -1,0 +1,8 @@
+{
+    "tpl": {
+        "vue": {
+            "url": "git@192.168.2.107:fpgl/vue-template.git",
+            "branch": "master"
+        }
+    }
+}
